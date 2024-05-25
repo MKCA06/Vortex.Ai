@@ -84,11 +84,10 @@ const Middle = () => {
               backgroundSize: 'contain',
               backgroundPosition: 'center',
               width: '45%',
-              minHeight: '70vh', // Adjusted height
+              minHeight: '70vh', 
               backgroundRepeat: 'no-repeat',
               display: 'flex',
               flexDirection: 'column',
-              //   justifyContent: 'space-around',
               alignItems: 'center',
               padding: '20px',
               paddingTop: 50,
