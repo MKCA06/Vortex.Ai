@@ -6,7 +6,7 @@ const Header = () => {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#" style={{ width: '40%' }}>
+          <a className="navbar-brand" href="/" style={{ width: '40%' }}>
             <img src="/Group 461.png" alt="" srcset="" />
           </a>
           <button
@@ -23,17 +23,17 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#" style={{fontWeight:"bold"}}>
+                <a className="nav-link active" aria-current="page" href="/" style={{fontWeight:"bold"}}>
                   About
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#" style={{fontWeight:"bold"}}>
+                <a className="nav-link" href="/" style={{fontWeight:"bold"}}>
                   How it works
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#" style={{fontWeight:"bold"}}>
+                <a className="nav-link" href="/" style={{fontWeight:"bold"}}>
                   Pricing
                 </a>
               </li>
