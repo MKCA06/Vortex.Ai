@@ -23,6 +23,7 @@ const BarChart = () => {
   ];
 
   const options = {
+    // title: "Density of Various Metals, in g/cm^3",
     chartArea: { width: "80%" },
     hAxis: {
       title: "Density",
