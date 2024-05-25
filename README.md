@@ -68,15 +68,15 @@ Explore the various pages and functionalities of the Vortex AI Sales Dashboard:
 
 ### Home Page
 
-![Home Page](https://user-images.githubusercontent.com/91538092/203387161-8c1b7d52-4f5a-4cfd-9a6d-9c33ff9b29f9.jpg)
+![Home Page](https://github.com/MKCA06/Vortex.Ai/assets/91538092/1ad83f72-8d7e-4fb2-8d27-eada95e05054)
 
 ### Dashboard
 
-![Dashboard](https://user-images.githubusercontent.com/91538092/203387161-8c1b7d52-4f5a-4cfd-9a6d-9c33ff9b29f9.jpg)
+![Dashboard](https://github.com/MKCA06/Vortex.Ai/assets/91538092/4ed04b49-4d83-4edf-b33c-807e12c2f5ba)
 
 ### Leads Management
 
-![Leads Management](https://user-images.githubusercontent.com/91538092/203387161-8c1b7d52-4f5a-4cfd-9a6d-9c33ff9b29f9.jpg)
+![Leads Management](https://github.com/MKCA06/Vortex.Ai/assets/91538092/91361244-a876-4731-94b7-440e64e31c34)
 
 ## 🌐 Additional Resources
 
