@@ -86,7 +86,7 @@ Explore additional resources to enhance your understanding and experience with t
 
 Access the Figma file to dive into the intricacies of the design and user interface. Understand the thought process behind the design and see how the user experience was crafted.
 
-🔗 [Figma File](https://www.figma.com/file/...)
+🔗 [Figma File](https://www.figma.com/design/GaqGFqCpmTo4MXwQDfQ96I/Task?t=hzaRxbhkNlKEbGDU-0)
 
 ## 🚀 Conclusion
 
